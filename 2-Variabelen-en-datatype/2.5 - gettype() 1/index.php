@@ -3,9 +3,9 @@
 <body>
 
 <?php
-$_score_ = 0;
-echo $_score_;
+$c = "Tom";
+echo gettype($c) . "<br>";
 ?>
 
 </body>
-</html> 
+</html>
