@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<?php
-$voornaam = "Youssef";
-var_dump($voornaam);
+<?php 
+$test = "Youssef";
+var_dump($test);
 ?>
     
 </body>
