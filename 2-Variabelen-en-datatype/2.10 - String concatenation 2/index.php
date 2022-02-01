@@ -4,21 +4,12 @@
 
 <?php
 
- $item = "Item 1";
- $itemm = "Item 2";
- $itemmm = "Item 3";
+ $test = "Items";
 
-echo "<ul>";
-echo "<li>";
-echo "$item";
-echo "</li>";
-echo "<li>";
-echo "$itemm";
-echo "</li>";
-echo "<li>";
-echo "$itemmm";
-echo "</li>";
-echo "</ul>";
+ echo $test .=
+  "<li>Item 1<li>
+  Item 2 <li>
+  Item 3</li>";
 ?>
     
 </body>
